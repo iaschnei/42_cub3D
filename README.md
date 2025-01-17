@@ -2,7 +2,8 @@
 A 3D raycasting project in C, using minilibX
 Made in collaboration with [Acsts](https://github.com/Acsts)
 
-The goal was to create a maze using raycasting similarly to Wolfenstein3D.
+The goal was to create a maze using raycasting similarly to Wolfenstein3D. It also features a minimap and a fps counter.
+
 There is no end or exit but you can take a walk in it !
 
 # Usage
